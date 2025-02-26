@@ -1,6 +1,6 @@
 {
   name = "rust-analyzer-nickel",
-  version = "0.1.0",
+  version = "0.1.1",
   minimal_nickel_version = "1.10.0",
   authors = ["Joe Neeman <joe.neeman@tweag.io>"],
   dependencies = {
